@@ -1,0 +1,6 @@
+.box {
+	display:flex;
+	transform: translate(1px, 3px);
+	opacity: 0;
+	transition: all;
+}
